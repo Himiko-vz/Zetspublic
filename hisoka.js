@@ -27,8 +27,8 @@ const setting = JSON.parse(fs.readFileSync('./apikey.json'))
 
 //limit
 limitawal = '100'
-botname = 'ZETS - MD'
-wm = '© ZETS - MD'
+botname = 'Vin - MD'
+wm = '© Vin - MD'
 
 // read database
 let tebaklagu = db.data.game.tebaklagu = []
@@ -552,20 +552,20 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
             break
             case 'sc':  case 'sourcecode': {
 	        anu = `
-⌕ Script : https://github.com/Nando35/ZetsM
+⌕ Script : https://github.com/DikaAednt/Hisoka-morou
 ⌕ Script ori : https://github.com/DikaArdnt/Hisoka-Morou
 
 Jangan lupa kasih bintang.
-⌕ Donate : 628125284895 (Dana / gopay)
-⌕ Saweria : https://saweria.co/Nando35
-⌕ Paypal : https://www.paypal.me/Rifando35
+⌕ Donate : 6282132156123 (PULSA )
+⌕ Saweria : https://saweria.co/-
+⌕ Paypal : https://www.paypal.me/-
 
 Dont Forget Donate
 `
 	                let btn = [{
                                 urlButton: {
                                     displayText: 'Instagram',
-                                    url: 'https://instagram.com/naando.jpeg'
+                                    url: 'https://instagram.com/Kevinafsar_'
                                 }
                             }]
                         hisoka.send5ButImg(m.chat, anu, botname, global.sc, btn)
@@ -590,7 +590,7 @@ Alya
 	                let btn = [{
                                 urlButton: {
                                     displayText: 'Instagram',
-                                    url: 'https://instagram.com/naando.jpeg'
+                                    url: 'https://instagram.com/Kevinafsar_'
                                 }
                             }]
                         hisoka.send5ButImg(m.chat, anu, botname, global.tq, btn)
@@ -1492,7 +1492,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Instagram',
-                                    url: 'https://instagram.com/alya.xzy'
+                                    url: 'https://instagram.com/Kevinafsar_'
                                }
                             }, {
                                 quickReplyButton: {
@@ -2576,7 +2576,7 @@ untuk membuat stiker dan lain lain
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Instagram',
-                                    url: 'https://instagram.com/naando.jpeg'
+                                    url: 'https://instagram.com/Kevinafsar_'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2888,7 +2888,7 @@ untuk membuat stiker dan lain lain
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Instagram',
-                                    url: 'https://instagram.com/naando.jpeg'
+                                    url: 'https://instagram.com/Kevinafsar_'
                                 }
                             }, {
                                 quickReplyButton: {
